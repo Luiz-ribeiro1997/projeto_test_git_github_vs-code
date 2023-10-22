@@ -2,5 +2,8 @@ Ola, esse será meu primeiro projeto para aprender inegrar o git, github e vs co
 estou usando o cmd para criar pastas, git bash para criar e manipular os diretórios, e vs code para fazer novos arquivos.
 
      Projeto: Site simples com header, imagens e textos no main, footer.
-
+    sobre o site: 
+    1 o site primeiramente tera uma landing page.
+    2 site sobre uma empresa de dentista ficticia
+    3 nome da empresa: Silver Smile. empresa especializada em dentes de artistas.  
      sobre header: Logo - 4 links.

@@ -2,3 +2,25 @@
     margin:0;
     padding:0;
 }
+
+body{
+    width: 1920px;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+header{
+    height: 128px;
+    width: 1728px;
+    background-color:#20442A;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+ .navegacao{
+    display: flex;
+    justify-content: space-between;
+    gap: 32px;
+    list-style: none;
+    color: #FF4D4D;
+}
