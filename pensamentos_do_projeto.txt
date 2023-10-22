@@ -1,2 +1,6 @@
 Ola, esse será meu primeiro projeto para aprender inegrar o git, github e vs code.
 estou usando o cmd para criar pastas, git bash para criar e manipular os diretórios, e vs code para fazer novos arquivos.
+
+     Projeto: Site simples com header, imagens e textos no main, footer.
+
+     sobre header: Logo - 4 links.
